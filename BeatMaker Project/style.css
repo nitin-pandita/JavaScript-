@@ -54,14 +54,21 @@ svg {
     justify-content: center;
 }
 
+.title {
+    margin-top: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: uppercase;
+}
+
 .hihat-track,
 .snare-track,
 .kick-track {
     display: flex;
     align-items: center;
     width: 70%;
+    margin: auto;
     justify-content: space-between;
-    margin-top: 5rem;
+    margin-top: 2rem;
 }
 
 .kick,
@@ -99,7 +106,7 @@ svg {
     color: white;
     border: none;
     cursor: pointer;
-    margin-top: 3rem;
+    margin-top: 1rem;
 }
 
 select {
