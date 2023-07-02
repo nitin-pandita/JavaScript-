@@ -1,7 +1,7 @@
 // Global Selections
 
 
-// FUnctions
+// FUnctionsdd
 
 function generateHex() {
     const letters = '#0123456789ABCDEF';
